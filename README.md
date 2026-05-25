@@ -30,3 +30,9 @@ Dataset collected from Kaggle.
 - Deep Learning integration
 - Real-time prediction
 - Web deployment
+
+
+## Full Project Documentation
+
+Project Report Link:
+https://drive.google.com/file/d/1YMj-nPB9k9rJybAkN3KoaFE2pe3eleh2/view?usp=sharing
